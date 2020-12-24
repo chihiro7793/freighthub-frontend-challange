@@ -26,9 +26,11 @@ You can use any libraries, task runners and build processors. **React** and **Ja
 **Submissions using view libraries/frameworks other than React will not be accepted.**
 
 ## Start project by below steps
+```
 npm install
 npm run server
 npm start
+```
 
 ## Server-side
 
